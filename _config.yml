@@ -1,3 +1,7 @@
+remote_theme: mmistakes/minimal-mistakes
+
 title: Yamila Garcia
-theme: jekyll-theme-minimal
-logo: /pic2.jpg
+author:
+  name: Yamila Garcia
+  avatar: "/profile.jpg"
+  bio: "Master's Student in CSE | Remote Sensing & ML"
