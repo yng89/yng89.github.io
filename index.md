@@ -1,9 +1,4 @@
-#
-#
-# Resume
 
-> Master's Student in Computer Science & Engineering  
-> Remote Sensing | Machine Learning | Environmental Data  
 
 ---
 
