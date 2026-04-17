@@ -1,4 +1,7 @@
-remote_theme: academicpages/academicpages
+plugins:
+  - jekyll-remote-theme
+  
+  remote_theme: academicpages/academicpages
 
 title: Yamila Garcia
 author:
