@@ -1,5 +1,7 @@
-
-
+---
+layout: single
+author_profile: true
+title: "Resume"
 ---
 
 ## About Me
