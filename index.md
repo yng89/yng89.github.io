@@ -1,14 +1,14 @@
 ---
 layout: single
 author_profile: true
-title: "Resume"
+title: "Yamila Garcia"
 ---
 
 ## About Me
 
-Master’s student at the University of Connecticut and Graduate Assistant focused on environmental research, geospatial data analysis, and machine learning.  
+Master’s student in Computer Science & Engineering at the University of Connecticut and Graduate Assistant focused on environmental research, geospatial data analysis, and machine learning.
 
-I work on applying data-driven and computational methods to oceanographic and environmental problems, including real-time data analysis and federated learning systems.
+My work centers on applying data-driven and computational methods to oceanographic and environmental systems, including real-time data analysis and federated learning for distributed sensing.
 
 ---
 
@@ -18,7 +18,7 @@ I work on applying data-driven and computational methods to oceanographic and en
 *2024 – Present*
 
 - Coastal monitoring and environmental data analysis  
-- Integration of data for environmental models  
+- Integration of data for environmental modeling  
 - Real-time analysis of winds, waves, and ocean currents  
 
 ### Research Intern — Eversource Energy Center at UConn  
@@ -33,17 +33,17 @@ I work on applying data-driven and computational methods to oceanographic and en
 ## Projects
 
 ### Ocean Data Analysis  
-Analysis of wave, wind, and ocean current data using Python and geospatial tools.
+Wave, wind, and ocean current analysis using Python and geospatial tools.
 
-### Federated Learning for Underwater IoT Sensing
-
+### Federated Learning for Underwater IoT Sensing  
+Privacy-preserving machine learning for distributed ocean sensing systems.
 
 ---
 
 ## Education
 
 **University of Connecticut**  
-M.S. Computer Science & Engineering (Ongoing)  
+M.S. Computer Science & Engineering *(Ongoing)*  
 
 **University of Connecticut**  
 B.S.E. Computer Science & Engineering  
@@ -53,19 +53,20 @@ B.S.E. Computer Science & Engineering
 ## Skills
 
 - **Programming:** Python, R, Julia, MATLAB, C++  
-- **Tools:** ArcGIS Pro, ENVI, SQL  
+- **Geospatial & Data Tools:** ArcGIS Pro, ENVI, SQL  
 - **Web:** HTML, CSS, JavaScript  
 
 ---
 
 ## Certifications
 
-- Remote Sensing & Geospatial Data Analytics (2025)  
+- Remote Sensing & Geospatial Data Analytics *(2025)*  
 - Google IT Support Professional Certificate  
 
 ---
 
 ## Contact
 
-- Email: yamila.garcia@uconn.edu  
-- GitHub: https://github.com/yng89  
+- 📧 Email: yamila.garcia@uconn.edu  
+- 💻 GitHub: [github.com/yng89](https://github.com/yng89)  
+- 🔗 LinkedIn: [linkedin.com/in/yamilangarcia](https://www.linkedin.com/in/yamilangarcia/)
