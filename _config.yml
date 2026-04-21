@@ -1,10 +1,10 @@
+title: Yamila Garcia
+remote_theme: academicpages/academicpages
+
 plugins:
   - jekyll-remote-theme
-  
-  remote_theme: academicpages/academicpages
 
-title: Yamila Garcia
 author:
   name: Yamila Garcia
-  avatar: "/profile.jpg"
+  avatar: "/pic2.jpg"
   bio: "Master's Student in CSE | Remote Sensing & ML"
