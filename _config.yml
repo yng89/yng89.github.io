@@ -1,6 +1,5 @@
 title: Yamila Garcia
-remote_theme: academicpages/academicpages
-minimal_mistakes_skin: "default"
+remote_theme: benbalter/retlab
 
 plugins:
   - jekyll-include-cache
