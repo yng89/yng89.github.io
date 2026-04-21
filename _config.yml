@@ -8,3 +8,10 @@ author:
   name: Yamila Garcia
   avatar: "/pic2.jpg"
   bio: "Master's Student in CSE | Remote Sensing & ML"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yng89"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/yamilangarcia/"
