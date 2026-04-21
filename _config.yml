@@ -1,13 +1,15 @@
 title: Yamila Garcia
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"
 
 plugins:
+  - jekyll-include-cache
   - jekyll-remote-theme
 
 author:
-  name: Yamila Garcia
+  name: "Yamila Garcia"
   avatar: "/pic2.jpg"
-  bio: "Master's Student in CSE | Remote Sensing & ML"
+  bio: "Master's Student in CSE | Remote Sensing | Machine Learning"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
