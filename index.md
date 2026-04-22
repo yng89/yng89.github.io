@@ -5,7 +5,7 @@ title: ""
 <div style="display:flex; align-items:center; gap:30px; margin:40px 0; flex-wrap:wrap;">
   
   <div>
-    <img src="/pic2.jpg" alt="Yamila Garcia" width="180" style="border-radius:12px;">
+    <img src="/pic2.jpg" alt="Yamila Garcia" width="180" height="180" style="border-radius:50%; object-fit:cover;">
   </div>
 
   <div>
