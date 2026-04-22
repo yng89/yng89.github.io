@@ -1,7 +1,30 @@
 ---
-layout: single
-author_profile: true
-title: "Yamila Garcia"
+title: ""
+---
+
+<div style="display:flex; align-items:center; gap:30px; margin:40px 0; flex-wrap:wrap;">
+  
+  <div>
+    <img src="/pic2.jpg" alt="Yamila Garcia" width="180" style="border-radius:12px;">
+  </div>
+
+  <div>
+    <h1 style="margin-bottom:10px;">Yamila Garcia</h1>
+
+    <p style="margin:0 0 10px 0;">
+      Master’s Student in Computer Science & Engineering<br>
+      Remote Sensing • Machine Learning • Environmental Data
+    </p>
+
+    <p style="margin:0;">
+      <a href="https://github.com/yng89">GitHub</a> •
+      <a href="https://www.linkedin.com/in/yamilangarcia/">LinkedIn</a> •
+      <a href="mailto:yamila.garcia@uconn.edu">Email</a>
+    </p>
+  </div>
+
+</div>
+
 ---
 
 ## About Me
@@ -62,11 +85,3 @@ B.S.E. Computer Science & Engineering
 
 - Remote Sensing & Geospatial Data Analytics *(2025)*  
 - Google IT Support Professional Certificate  
-
----
-
-## Contact
-
-- 📧 Email: yamila.garcia@uconn.edu  
-- 💻 GitHub: [github.com/yng89](https://github.com/yng89)  
-- 🔗 LinkedIn: [linkedin.com/in/yamilangarcia](https://www.linkedin.com/in/yamilangarcia/)
