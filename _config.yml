@@ -1,18 +1,2 @@
 title: Yamila Garcia
-remote_theme: benbalter/retlab
-
-plugins:
-  - jekyll-include-cache
-  - jekyll-remote-theme
-
-author:
-  name: "Yamila Garcia"
-  avatar: "/pic2.jpg"
-  bio: "Master's Student in CSE | Remote Sensing | Machine Learning"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/yng89"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/yamilangarcia/"
+theme: jekyll-theme-slate
