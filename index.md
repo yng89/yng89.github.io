@@ -37,14 +37,14 @@ My work centers on applying data-driven and computational methods to oceanograph
 
 ## Experience
 
-### Research Assistant — Eversource Energy Center at UConn  
+### Research Assistant — Eversource Energy Center at the University of Connecticut  
 *2024 – Present*
 
 - Coastal monitoring and environmental data analysis  
 - Integration of data for environmental modeling  
 - Real-time analysis of winds, waves, and ocean currents  
 
-### Research Intern — Eversource Energy Center at UConn  
+### Research Intern — Eversource Energy Center at the University of Connecticut  
 *2022 – 2023*
 
 - Bias correction of cloud cover forecasts using image data  
