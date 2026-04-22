@@ -1,7 +1,16 @@
 ---
-layout: single
-author_profile: true
-title: ""
+title: Yamila Garcia
+---
+
+# Yamila Garcia
+
+Master’s Student in Computer Science & Engineering  
+Remote Sensing • Machine Learning • Environmental Data  
+
+🔗 [GitHub](https://github.com/yng89)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yamilangarcia/)  
+📧 yamila.garcia@uconn.edu  
+
 ---
 
 ## About Me
@@ -9,8 +18,6 @@ title: ""
 Master’s student in Computer Science & Engineering at the University of Connecticut and Graduate Assistant focused on environmental research, geospatial data analysis, and machine learning.
 
 My work centers on applying data-driven and computational methods to oceanographic and environmental systems, including real-time data analysis and federated learning for distributed sensing.
-
----
 
 ## Experience
 
@@ -28,8 +35,6 @@ My work centers on applying data-driven and computational methods to oceanograph
 - Automation of forecast visualization  
 - Processing and analysis of ocean data from SOFAR buoys  
 
----
-
 ## Projects
 
 ### Ocean Data Analysis  
@@ -37,8 +42,6 @@ Wave, wind, and ocean current analysis using Python and geospatial tools.
 
 ### Federated Learning for Underwater IoT Sensing  
 Privacy-preserving machine learning for distributed ocean sensing systems.
-
----
 
 ## Education
 
@@ -48,25 +51,19 @@ M.S. Computer Science & Engineering *(Ongoing)*
 **University of Connecticut**  
 B.S.E. Computer Science & Engineering  
 
----
-
 ## Skills
 
 - **Programming:** Python, R, Julia, MATLAB, C++  
 - **Geospatial & Data Tools:** ArcGIS Pro, ENVI, SQL  
 - **Web:** HTML, CSS, JavaScript  
 
----
-
 ## Certifications
 
 - Remote Sensing & Geospatial Data Analytics *(2025)*  
 - Google IT Support Professional Certificate  
 
----
-
 ## Contact
 
-- 📧 Email: yamila.garcia@uconn.edu  
-- 💻 GitHub: [github.com/yng89](https://github.com/yng89)  
-- 🔗 LinkedIn: [linkedin.com/in/yamilangarcia](https://www.linkedin.com/in/yamilangarcia/)
+- Email: yamila.garcia@uconn.edu  
+- GitHub: [github.com/yng89](https://github.com/yng89)  
+- LinkedIn: [linkedin.com/in/yamilangarcia](https://www.linkedin.com/in/yamilangarcia/)
