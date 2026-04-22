@@ -2,16 +2,25 @@
 title: Yamila Garcia
 ---
 
-# Yamila Garcia
+<p style="text-align:center;">
+<img src="/pic2.jpg" width="180" style="border-radius:50%;">
+</p>
 
-Master’s Student in Computer Science & Engineering  
-Remote Sensing • Machine Learning • Environmental Data  
+<h1 style="text-align:center;">Yamila Garcia</h1>
 
-🔗 [GitHub](https://github.com/yng89)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yamilangarcia/)  
-📧 yamila.garcia@uconn.edu  
+<p style="text-align:center;">
+Master’s Student in Computer Science & Engineering<br>
+Remote Sensing • Machine Learning • Environmental Data
+</p>
 
----
+<p style="text-align:center;">
+<a href="https://github.com/yng89">GitHub</a> • 
+<a href="https://www.linkedin.com/in/yamilangarcia/">LinkedIn</a> • 
+yamila.garcia@uconn.edu
+</p>
+
+<hr>
+
 
 ## About Me
 
